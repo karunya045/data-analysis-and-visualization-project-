@@ -1,0 +1,36 @@
+{
+  "2024": {
+    "monthly": [
+      { "month": "Jan", "monthNum": 1, "domestic": 1297175, "foreign": 5696, "total": 1302871, "revenueLakhs": 23719.19 },
+      { "month": "Feb", "monthNum": 2, "domestic": 1527772, "foreign": 5388, "total": 1533160, "revenueLakhs": 27168.16 },
+      { "month": "Mar", "monthNum": 3, "domestic": 1107988, "foreign": 4251, "total": 1112239, "revenueLakhs": 20319.13 },
+      { "month": "Apr", "monthNum": 4, "domestic": 1015054, "foreign": 4353, "total": 1019407, "revenueLakhs": 18419.74 },
+      { "month": "May", "monthNum": 5, "domestic": 977889,  "foreign": 4021, "total": 981910,  "revenueLakhs": 18053.81 },
+      { "month": "Jun", "monthNum": 6, "domestic": 948821,  "foreign": 3754, "total": 952575,  "revenueLakhs": 17415.48 },
+      { "month": "Jul", "monthNum": 7, "domestic": 1018605, "foreign": 4597, "total": 1023202, "revenueLakhs": 18751.49 },
+      { "month": "Aug", "monthNum": 8, "domestic": 1057065, "foreign": 4196, "total": 1061261, "revenueLakhs": 19150.95 },
+      { "month": "Sep", "monthNum": 9, "domestic": 1199805, "foreign": 5153, "total": 1204958, "revenueLakhs": 21970.11 },
+      { "month": "Oct", "monthNum": 10, "domestic": 1403077, "foreign": 5799, "total": 1408876, "revenueLakhs": 25504.40 },
+      { "month": "Nov", "monthNum": 11, "domestic": 1329249, "foreign": 6099, "total": 1335348, "revenueLakhs": 24401.41 },
+      { "month": "Dec", "monthNum": 12, "domestic": 1502697, "foreign": 6747, "total": 1509444, "revenueLakhs": 27672.34 }
+    ],
+    "totals": { "domestic": 14385197, "foreign": 60054, "total": 14445251, "revenueLakhs": 262546.21 }
+  },
+  "2025": {
+    "monthly": [
+      { "month": "Jan", "monthNum": 1, "domestic": 1398014, "foreign": 5699, "total": 1403713, "revenueLakhs": 25284.90 },
+      { "month": "Feb", "monthNum": 2, "domestic": 1311942, "foreign": 5960, "total": 1317902, "revenueLakhs": 24083.67 },
+      { "month": "Mar", "monthNum": 3, "domestic": 1150764, "foreign": 4849, "total": 1155613, "revenueLakhs": 21187.92 },
+      { "month": "Apr", "monthNum": 4, "domestic": 1070740, "foreign": 4493, "total": 1075233, "revenueLakhs": 19491.44 },
+      { "month": "May", "monthNum": 5, "domestic": 1045523, "foreign": 4702, "total": 1050225, "revenueLakhs": 19149.55 },
+      { "month": "Jun", "monthNum": 6, "domestic": 974166,  "foreign": 4453, "total": 978619,  "revenueLakhs": 17718.56 },
+      { "month": "Jul", "monthNum": 7, "domestic": 1064569, "foreign": 4250, "total": 1068819, "revenueLakhs": 19387.09 },
+      { "month": "Aug", "monthNum": 8, "domestic": 1119562, "foreign": 4639, "total": 1124201, "revenueLakhs": 20597.69 },
+      { "month": "Sep", "monthNum": 9, "domestic": 1265631, "foreign": 5683, "total": 1271314, "revenueLakhs": 22954.28 },
+      { "month": "Oct", "monthNum": 10, "domestic": 1529683, "foreign": 6749, "total": 1536432, "revenueLakhs": 27685.24 },
+      { "month": "Nov", "monthNum": 11, "domestic": 1473145, "foreign": 6279, "total": 1479424, "revenueLakhs": 27012.24 },
+      { "month": "Dec", "monthNum": 12, "domestic": 1608494, "foreign": 6727, "total": 1615221, "revenueLakhs": 29437.66 }
+    ],
+    "totals": { "domestic": 15012233, "foreign": 64483, "total": 15076716, "revenueLakhs": 273990.24 }
+  }
+}

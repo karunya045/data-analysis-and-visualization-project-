@@ -1,0 +1,134 @@
+[
+  {
+    "id": "hyderabad",
+    "rank": 1,
+    "name": "Hyderabad",
+    "category": "Heritage & Urban",
+    "attractions": ["Golconda Fort", "Charminar", "Qutb Shahi Tombs", "Chowmahalla Palace", "Salar Jung Museum", "Hussain Sagar Lake"],
+    "history": "Capital of Qutb Shahi Dynasty & Asaf Jahi (Nizams) Era; Islamic & Persian architecture hub.",
+    "totalFootfall": 10126538,
+    "revenueLakhs": 324049.21,
+    "image": null
+  },
+  {
+    "id": "yadadri-bhuvanagiri",
+    "rank": 2,
+    "name": "Yadadri Bhuvanagiri",
+    "category": "Spiritual & Fort Heritage",
+    "attractions": ["Yadadri Sri Lakshmi Narasimha Swamy Temple", "Bhongir Fort", "Kolanupaka Jain Temple"],
+    "history": "Monolithic rock fort of Western Chalukyas (10th century) & major modern temple architecture center.",
+    "totalFootfall": 8202815,
+    "revenueLakhs": 114839.40,
+    "image": null
+  },
+  {
+    "id": "bhadradri-kothagudem",
+    "rank": 3,
+    "name": "Bhadradri Kothagudem",
+    "category": "Pilgrimage & Eco-Tourism",
+    "attractions": ["Bhadrachalam Sri Sita Ramachandra Swamy Temple", "Kinnerasani Wildlife Sanctuary & Dam", "Parnasala"],
+    "history": "Ramayana epical heritage site along the Godavari River & nature reserve.",
+    "totalFootfall": 6368037,
+    "revenueLakhs": 108256.64,
+    "image": null
+  },
+  {
+    "id": "mulugu",
+    "rank": 4,
+    "name": "Mulugu",
+    "category": "UNESCO Heritage & Eco-Tourism",
+    "attractions": ["Ramappa Temple (UNESCO World Heritage)", "Medaram Sammakka Sarakka Gaddi", "Bogatha Waterfalls", "Laknavaram Lake"],
+    "history": "Home to Kakatiya-era floating-brick architecture (Ramappa) & tribal history (Medaram Jathara).",
+    "totalFootfall": 5547309,
+    "revenueLakhs": 83209.64,
+    "image": null
+  },
+  {
+    "id": "hanamkonda-warangal",
+    "rank": 5,
+    "name": "Hanamkonda & Warangal",
+    "category": "Heritage & Pilgrimage",
+    "attractions": ["Warangal Fort", "Kakatiya Kala Thoranam", "Thousand Pillar Temple", "Bhadrakali Temple"],
+    "history": "Capital of the medieval Kakatiya Dynasty (12th-14th Century); famous for stone architecture & fort ruins.",
+    "totalFootfall": 4333395,
+    "revenueLakhs": 78001.08,
+    "image": null
+  },
+  {
+    "id": "jogulamba-gadwal",
+    "rank": 6,
+    "name": "Jogulamba Gadwal",
+    "category": "Pilgrimage & Heritage",
+    "attractions": ["Alampur Jogulamba Temple (5th Shakti Peeth)", "Gadwal Fort", "Beechupally Anjaneya Temple"],
+    "history": "Badami Chalukyan Nava Brahma temples (7th-8th century) & Gadwal Samsthanam royal fort.",
+    "totalFootfall": 4072762,
+    "revenueLakhs": 52945.86,
+    "image": null
+  },
+  {
+    "id": "karimnagar",
+    "rank": 7,
+    "name": "Karimnagar",
+    "category": "Heritage & Culture",
+    "attractions": ["Elgandal Fort", "Kondagattu Anjaneya Swamy Temple", "Lower Manair Dam", "Silver Filigree Craft Center"],
+    "history": "Kakatiya/Nizam military fort post & traditional silver craft hub.",
+    "totalFootfall": 3533027,
+    "revenueLakhs": 52995.41,
+    "image": null
+  },
+  {
+    "id": "nalgonda",
+    "rank": 8,
+    "name": "Nalgonda",
+    "category": "Heritage & Eco-Tourism",
+    "attractions": ["Nagarjuna Sagar Dam", "Nagarjunakonda Buddhist Museum", "Devarakonda Fort", "Chaya Someswara Swamy Temple"],
+    "history": "Ancient Ikshvaku dynasty Buddhist settlement & Kakatiya/Bahmani era hill forts.",
+    "totalFootfall": 3297621,
+    "revenueLakhs": 52761.93,
+    "image": null
+  },
+  {
+    "id": "adilabad-nirmal",
+    "rank": 9,
+    "name": "Adilabad & Nirmal",
+    "category": "Nature, Wildlife & Pilgrimage",
+    "attractions": ["Kuntala Waterfalls", "Pocera Waterfalls", "Kawal Tiger Reserve", "Basar Gnana Saraswati Temple", "Nirmal Fort"],
+    "history": "Nirmal craftsmanship/toys history; Basar is one of the rare Saraswati shrines in India.",
+    "totalFootfall": 3051246,
+    "revenueLakhs": 41191.80,
+    "image": null
+  },
+  {
+    "id": "medak",
+    "rank": 10,
+    "name": "Medak",
+    "category": "Heritage & Eco-Tourism",
+    "attractions": ["Medak Fort", "Medak Cathedral (Gothic Style)", "Pocharam Wildlife Sanctuary & Lake"],
+    "history": "Kakatiya hill fort (Methukudurgam) & early 20th-century British Gothic cathedral.",
+    "totalFootfall": 2840761,
+    "revenueLakhs": 39770.64,
+    "image": null
+  },
+  {
+    "id": "nizamabad",
+    "rank": 11,
+    "name": "Nizamabad",
+    "category": "Heritage & Nature",
+    "attractions": ["Nizamabad Fort", "Dichpally Ramalayam", "Mallaram Forest", "Alisagar & Ashok Sagar Lakes"],
+    "history": "Rashtrakuta & Kakatiya heritage; Dichpally temple known as 'Khajuraho of Telangana'.",
+    "totalFootfall": 2337436,
+    "revenueLakhs": 33892.83,
+    "image": null
+  },
+  {
+    "id": "nagarkurnool",
+    "rank": 12,
+    "name": "Nagarkurnool",
+    "category": "Wildlife & Eco-Tourism",
+    "attractions": ["Amrabad Tiger Reserve", "Srisailam North Gateway", "Saleshwaram Cave Temple", "Mallela Theertham"],
+    "history": "Nallamala forest wilderness, ancient eco-trails & tribal pilgrimage tradition.",
+    "totalFootfall": 1951978,
+    "revenueLakhs": 29279.69,
+    "image": null
+  }
+]
