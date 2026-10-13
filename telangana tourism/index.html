@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Telangana Tourism Analytics</title>
+
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <div>
+            <h1>Telangana Tourism Analytics</h1>
+            <p>Data Analysis & Visualization Dashboard</p>
+        </div>
+
+        <div class="header-right">
+            <span>2023 – 2024</span>
+        </div>
+    </header>
+
+
+    <main class="dashboard">
+
+        <!-- KPI CARDS -->
+
+        <section class="kpi-grid">
+
+            <div class="card kpi">
+                <p>Total Visitors</p>
+                <h2 id="totalVisitors">88.40M</h2>
+                <span class="positive">2024</span>
+            </div>
+
+            <div class="card kpi">
+                <p>Domestic Visitors</p>
+                <h2 id="domesticVisitors">88.24M</h2>
+                <span class="positive">2024</span>
+            </div>
+
+            <div class="card kpi">
+                <p>Foreign Visitors</p>
+                <h2 id="foreignVisitors">0.155M</h2>
+                <span class="neutral">2024</span>
+            </div>
+
+            <div class="card kpi">
+                <p>Domestic Growth</p>
+                <h2 id="growth">50.97%</h2>
+                <span class="positive">2023 → 2024</span>
+            </div>
+
+        </section>
+
+
+        <!-- CHART ROW -->
+
+        <section class="chart-grid">
+
+            <div class="card chart-card">
+
+                <div class="card-heading">
+                    <div>
+                        <h3>Tourist Growth</h3>
+                        <p>Domestic vs Foreign visitors</p>
+                    </div>
+                </div>
+
+                <canvas id="growthChart"></canvas>
+
+            </div>
+
+
+            <div class="card chart-card">
+
+                <div class="card-heading">
+                    <div>
+                        <h3>Visitor Composition</h3>
+                        <p>Telangana tourism, 2024</p>
+                    </div>
+                </div>
+
+                <canvas id="visitorChart"></canvas>
+
+            </div>
+
+        </section>
+
+
+        <!-- INSIGHTS -->
+
+        <section class="card insights">
+
+            <div class="card-heading">
+                <div>
+                    <h3>Key Insights</h3>
+                    <p>Automatically generated from the tourism data</p>
+                </div>
+            </div>
+
+            <div class="insight-grid">
+
+                <div class="insight-box">
+                    <strong>📈 Strong Domestic Growth</strong>
+                    <p>
+                        Domestic tourism increased significantly
+                        from 2023 to 2024.
+                    </p>
+                </div>
+
+                <div class="insight-box">
+                    <strong>🌍 Foreign Tourism</strong>
+                    <p>
+                        Foreign visitor numbers remained much smaller
+                        compared with domestic tourism.
+                    </p>
+                </div>
+
+                <div class="insight-box">
+                    <strong>📊 Tourism Pattern</strong>
+                    <p>
+                        Telangana's tourism demand is primarily driven
+                        by domestic visitors.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- MAP -->
+
+        <section class="card map-section">
+
+            <div class="card-heading">
+                <div>
+                    <h3>Tourism Destination Explorer</h3>
+                    <p>Explore important tourist and historical locations</p>
+                </div>
+
+                <div class="legend">
+                    <span>🏛️ Historical</span>
+                    <span>📍 Tourist</span>
+                </div>
+            </div>
+
+            <div id="map"></div>
+
+        </section>
+
+
+    </main>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
